@@ -12,4 +12,5 @@
 
 ## Instructions
 
-TODO: these are missing
+TODO: 
+- pour water into the pot, and heat it until it boils
